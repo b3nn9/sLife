@@ -43,7 +43,7 @@ MASQUERADE  all  --  anywhere             anywhere
 Chain OUTPUT (policy ACCEPT)
 target     prot opt source               destination
 ~~~
-### 포트포워딩 설정 유지
+### 포트포워딩 설정 유지: [참고](https://dknny.tistory.com/12)
 ~~~
 $ sudo apt install netfilter-persistent
 $ sudo netfilter-persistent save
