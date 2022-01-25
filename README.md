@@ -6,4 +6,4 @@
 - 영화: [봄 여름 가을 겨울 그리고 봄, 2003, 김기덕](https://movie.naver.com/movie/bi/mi/basic.naver?code=36617), 
 [아제 아제 바라아제, 1989, 임권택](https://movie.naver.com/movie/bi/mi/basic.naver?code=10921),  
 [세계일화국제불교영화제](http://www.oibff.com/)
-- 
+- 법륜스님: [육조단경](https://blog.daum.net/pejklee/827)
