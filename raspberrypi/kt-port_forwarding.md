@@ -43,8 +43,9 @@ MASQUERADE  all  --  anywhere             anywhere
 Chain OUTPUT (policy ACCEPT)
 target     prot opt source               destination
 ~~~
-### 포트포워딩 설정 유지: [참고](https://dknny.tistory.com/12)
+### 포트포워딩 설정 유지하기
+- 참고: [iptables-persistent를 이용한 방화벽 설정 및 ip 차단](https://darrengwon.tistory.com/699), [참고](https://dknny.tistory.com/12)
 ~~~
-$ sudo apt install netfilter-persistent
+$ sudo apt install iptables-persistent netfilter-persistent
 $ sudo netfilter-persistent save
 ~~~
