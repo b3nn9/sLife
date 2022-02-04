@@ -1,5 +1,6 @@
 # 윈도우10에 Hyper-V 구성하기
-- [Windows 10에 Hyper-V 설치](https://docs.microsoft.com/ko-kr/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)  
+- 파워쉘 실행 후, DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V 입력
+- 참고: [Windows 10에 Hyper-V 설치](https://docs.microsoft.com/ko-kr/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)  
 ~~~
 Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.
