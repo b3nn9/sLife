@@ -31,3 +31,5 @@
 2. 기도하면서 어려운 점? 지키는 것과 자유로워지는 것, 그냥 하면 되는데, 음.  
 3. 천일결사 기도하면서 궁금한 점? 그냥 한다. 바야심겸의 의미를 새긴다.  
 4. 공부하면서 좋아진 점? 꽂힌다 vs 꽂히지 않는다, 화 vs 말  
+  
+-참고: [날마다 좋은날?](https://blog.naver.com/yousan56/222213345781), [무여](https://blog.naver.com/PostView.naver?blogId=jsy945&logNo=222418382031&redirect=Dlog&widgetTypeCall=true&directAccess=false)  
