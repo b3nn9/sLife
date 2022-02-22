@@ -393,3 +393,213 @@ No analytics data has been sent yet (nor will any be during this install run).
 
 gomdol@beongaegomdol-ui-MacBookPro ~ %
 ~~~
+
+~~~
+% brew install cask                                                                              
+==> Downloading https://ghcr.io/v2/homebrew/core/gmp/manifests/6.2.1_1
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/gmp/blobs/sha256:a43a2ae4c44d90626b835a968a32327c8b8bbf754ec1d2590f8ac656c71dace9
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:a43a2ae4c44d90626b835a968a32327c8b8bbf754ec1d2590f8ac656c7
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/coreutils/manifests/9.0_1
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/coreutils/blobs/sha256:e7d849e225505512eaa003bfa599bed9b17d935467e3d33f13ff44017118ab41
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:e7d849e225505512eaa003bfa599bed9b17d935467e3d33f13ff440171
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/manifests/2022-02-01
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/blobs/sha256:40e00f88df310bc2dc42aefb3e834c0a3022f125fecdf21f26431d12a104dbc0
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:40e00f88df310bc2dc42aefb3e834c0a3022f125fecdf21f26431d12a1
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/bdw-gc/manifests/8.0.6
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/bdw-gc/blobs/sha256:55bdbcc825a5f4657ca307ed0a002e8cd07bb1635148962ff9187aca4b7dcb9c
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:55bdbcc825a5f4657ca307ed0a002e8cd07bb1635148962ff9187aca4b
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libffi/manifests/3.4.2
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libffi/blobs/sha256:6a3605cff713d45e0500ef01c0f082d1b4d31d70cd2400b5856443050a44a056
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:6a3605cff713d45e0500ef01c0f082d1b4d31d70cd2400b5856443050a
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/m4/manifests/1.4.19
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/m4/blobs/sha256:8e9fa0d7d946f7c38e1a6f596aab3169d2440fccd34ec321b9a032d903ec951c
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:8e9fa0d7d946f7c38e1a6f596aab3169d2440fccd34ec321b9a032d903
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libtool/manifests/2.4.6_4
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libtool/blobs/sha256:51902377c9a9595aa62838170d43102ca12bfc0c2f926b78ea380220edfc271e
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:51902377c9a9595aa62838170d43102ca12bfc0c2f926b78ea380220ed
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libunistring/manifests/1.0
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libunistring/blobs/sha256:b8b2f6fe30eefd002bf0dbb5fc0e5c6dc0d5f9b9219f4d6fcddc48e3bc229b23
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:b8b2f6fe30eefd002bf0dbb5fc0e5c6dc0d5f9b9219f4d6fcddc48e3bc
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/pkg-config/manifests/0.29.2_3
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/pkg-config/blobs/sha256:2af9bceb60b70a259f236f1d46d2bb24c4d0a4af8cd63d974dde4d76313711e0
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:2af9bceb60b70a259f236f1d46d2bb24c4d0a4af8cd63d974dde4d7631
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/readline/manifests/8.1.2
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:9d9d9512c80c6ae7c8281da84533222d90cb5e06accdfa98e0bff37672793cec
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:9d9d9512c80c6ae7c8281da84533222d90cb5e06accdfa98e0bff37672
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/guile/manifests/3.0.8
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/guile/blobs/sha256:dc6e5dccbc34d5171fba0bc0a0f96381dad52a9837b6f0a1aa6eba2851b6137d
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:dc6e5dccbc34d5171fba0bc0a0f96381dad52a9837b6f0a1aa6eba2851
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/gettext/manifests/0.21
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:6e2c829031949c0cbd758d0701ed62c191387736e76a98a046c0619907632225
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:6e2c829031949c0cbd758d0701ed62c191387736e76a98a046c0619907
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libidn2/manifests/2.3.2
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libidn2/blobs/sha256:fcc51d2c385b19d647da5a53f7041f13f97d2c1119a7cbbfd8433e9e55bf5012
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:fcc51d2c385b19d647da5a53f7041f13f97d2c1119a7cbbfd8433e9e55
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libtasn1/manifests/4.18.0
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libtasn1/blobs/sha256:f85aa10d1320087405fd8b5c17593c6238bac842c6714edd09194f28e8e9f25d
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:f85aa10d1320087405fd8b5c17593c6238bac842c6714edd09194f28e8
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/nettle/manifests/3.7.3
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/nettle/blobs/sha256:c47b2e4721e5c8347194e3dad066bf00fc6b5d28cb4082f53535dba76a1ed658
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:c47b2e4721e5c8347194e3dad066bf00fc6b5d28cb4082f53535dba76a
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/p11-kit/manifests/0.24.1
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/p11-kit/blobs/sha256:a1c85ddc587d4b0e6ad38f7b58420ed0fc4a1ccdb038bee1451d9d81fc3fb434
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:a1c85ddc587d4b0e6ad38f7b58420ed0fc4a1ccdb038bee1451d9d81fc
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/1.1/manifests/1.1.1m
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/1.1/blobs/sha256:b3a02096abab03b1571f37d8d1f7ff89675a96be649495f434d8817047c3765e
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:b3a02096abab03b1571f37d8d1f7ff89675a96be649495f434d8817047
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libevent/manifests/2.1.12
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libevent/blobs/sha256:4867e07fed355e41bf50f9f44e29307c0004387dd49f743e3b387478572dc8a8
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:4867e07fed355e41bf50f9f44e29307c0004387dd49f743e3b38747857
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libnghttp2/manifests/1.46.0
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libnghttp2/blobs/sha256:7676ac3fa660ac5c0f08715d77edb7bbe68bfbe2853697271fcb9a32fb9caad7
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:7676ac3fa660ac5c0f08715d77edb7bbe68bfbe2853697271fcb9a32fb
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/unbound/manifests/1.15.0
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/unbound/blobs/sha256:915c6b513b276b18eb083839926aade01b36f78a8bf89039696e2ed4f31b571b
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:915c6b513b276b18eb083839926aade01b36f78a8bf89039696e2ed4f3
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/gnutls/manifests/3.7.3
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/gnutls/blobs/sha256:64e98c4d7ae8140c87befc258efde25b817e0d02e9be019f848482eae080ed28
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:64e98c4d7ae8140c87befc258efde25b817e0d02e9be019f848482eae0
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/jansson/manifests/2.14
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/jansson/blobs/sha256:f8a132e116364ead3e428b1ad39768791f7a11ad26c07f5040c41d3514b7dea2
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:f8a132e116364ead3e428b1ad39768791f7a11ad26c07f5040c41d3514
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/emacs/manifests/27.2
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/emacs/blobs/sha256:89d8ecc54baa2d25ffed5cb54ed2f4a088c8b7907446bbf320bf2334adacef72
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:89d8ecc54baa2d25ffed5cb54ed2f4a088c8b7907446bbf320bf2334ad
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/cask/manifests/0.8.7
+######################################################################## 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/cask/blobs/sha256:bd85befe31659e948617b988ed604d70199af9e7dd22dcfc8be6d76ecd92ee0b
+==> Downloading from https://pkg-containers.githubusercontent.com/ghcr1/blobs/sha256:bd85befe31659e948617b988ed604d70199af9e7dd22dcfc8be6d76ecd
+######################################################################## 100.0%
+==> Installing dependencies for cask: gmp, coreutils, ca-certificates, bdw-gc, libffi, m4, libtool, libunistring, pkg-config, readline, guile, gettext, libidn2, libtasn1, nettle, p11-kit, openssl@1.1, libevent, libnghttp2, unbound, gnutls, jansson and emacs
+==> Installing cask dependency: gmp
+==> Pouring gmp--6.2.1_1.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/gmp/6.2.1_1: 21 files, 3.2MB
+==> Installing cask dependency: coreutils
+==> Pouring coreutils--9.0_1.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/coreutils/9.0_1: 480 files, 13.1MB
+==> Installing cask dependency: ca-certificates
+==> Pouring ca-certificates--2022-02-01.all.bottle.tar.gz
+==> Regenerating CA certificate bundle from keychain, this may take a while...
+🍺  /opt/homebrew/Cellar/ca-certificates/2022-02-01: 3 files, 213.4KB
+==> Installing cask dependency: bdw-gc
+==> Pouring bdw-gc--8.0.6.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/bdw-gc/8.0.6: 69 files, 1.7MB
+==> Installing cask dependency: libffi
+==> Pouring libffi--3.4.2.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libffi/3.4.2: 17 files, 673.3KB
+==> Installing cask dependency: m4
+==> Pouring m4--1.4.19.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/m4/1.4.19: 13 files, 742.4KB
+==> Installing cask dependency: libtool
+==> Pouring libtool--2.4.6_4.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libtool/2.4.6_4: 75 files, 3.7MB
+==> Installing cask dependency: libunistring
+==> Pouring libunistring--1.0.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libunistring/1.0: 56 files, 5.0MB
+==> Installing cask dependency: pkg-config
+==> Pouring pkg-config--0.29.2_3.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/pkg-config/0.29.2_3: 11 files, 676.4KB
+==> Installing cask dependency: readline
+==> Pouring readline--8.1.2.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/readline/8.1.2: 48 files, 1.7MB
+==> Installing cask dependency: guile
+==> Pouring guile--3.0.8.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/guile/3.0.8: 846 files, 62.6MB
+==> Installing cask dependency: gettext
+==> Pouring gettext--0.21.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/gettext/0.21: 1,953 files, 20.6MB
+==> Installing cask dependency: libidn2
+==> Pouring libidn2--2.3.2.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libidn2/2.3.2: 77 files, 885.4KB
+==> Installing cask dependency: libtasn1
+==> Pouring libtasn1--4.18.0.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libtasn1/4.18.0: 61 files, 662.7KB
+==> Installing cask dependency: nettle
+==> Pouring nettle--3.7.3.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/nettle/3.7.3: 89 files, 2.8MB
+==> Installing cask dependency: p11-kit
+==> Pouring p11-kit--0.24.1.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/p11-kit/0.24.1: 67 files, 3.9MB
+==> Installing cask dependency: openssl@1.1
+==> Pouring openssl@1.1--1.1.1m.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/openssl@1.1/1.1.1m: 8,081 files, 18MB
+==> Installing cask dependency: libevent
+==> Pouring libevent--2.1.12.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libevent/2.1.12: 57 files, 2.1MB
+==> Installing cask dependency: libnghttp2
+==> Pouring libnghttp2--1.46.0.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libnghttp2/1.46.0: 13 files, 690.0KB
+==> Installing cask dependency: unbound
+==> Pouring unbound--1.15.0.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/unbound/1.15.0: 58 files, 5.8MB
+==> Installing cask dependency: gnutls
+==> Pouring gnutls--3.7.3.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/gnutls/3.7.3: 1,280 files, 11.0MB
+==> Installing cask dependency: jansson
+==> Pouring jansson--2.14.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/jansson/2.14: 11 files, 228.4KB
+==> Installing cask dependency: emacs
+==> Pouring emacs--27.2.arm64_monterey.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/emacs/27.2: 4,012 files, 104.3MB
+==> Installing cask
+==> Pouring cask--0.8.7.all.bottle.tar.gz
+==> Caveats
+Emacs Lisp files have been installed to:
+  /opt/homebrew/share/emacs/site-lisp/cask
+==> Summary
+🍺  /opt/homebrew/Cellar/cask/0.8.7: 15 files, 150.2KB
+==> Running `brew cleanup cask`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Caveats
+==> cask
+Emacs Lisp files have been installed to:
+  /opt/homebrew/share/emacs/site-lisp/cask
+gomdol@beongaegomdol-ui-MacBookPro ~ %
+~~~
