@@ -1,2 +1,2 @@
 - [육아휴직급여 계산기](https://work.calculate.co.kr/parental-leave-benefit-calculator/)
-- [육아기 단축근무 급여](https://minwon.moel.go.kr/minwon2008/lc_minwon/lc_quick_internet_view.do?idx=202012041313598211000)
+- [육아기 근무시간 단축급여](https://minwon.moel.go.kr/minwon2008/lc_minwon/lc_quick_internet_view.do?idx=202012041313598211000)
