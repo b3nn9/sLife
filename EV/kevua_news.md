@@ -1,3 +1,4 @@
+- (국토교통 통계누리) 자동차등록현황보고, "https://stat.molit.go.kr/portal/cate/statFileView.do?hRsId=58&hFormId=5"
 - (환경부 보도자료) 환경부는 사용자 입장에서 "전기차 충전 편의 개선 및 충전기 고장관리 강화 정책"을 추진 중임, 대한민국 정책브리핑, "https://www.korea.kr/news/pressReleaseView.do?newsId=156558603", 2023.3.23.
 - (경향신문) 전기차, 아직은 차주는 오늘도 電電긍긍…공용 충전기 찾아 길을 헤매네, 경향신문 김상범 기자, "https://m.khan.co.kr/economy/auto/article/202303212130015", 2023.3.21.
 - (전자신문) "사용자가 편하게…전기차 '충전 인프라' 개선해야”, 전자신문 정다은 기자, "https://www.etnews.com/20230316000165", 2023.3.16
