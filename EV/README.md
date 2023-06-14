@@ -1,7 +1,7 @@
 ## 충전요금 [환경부 충전소](https://ev.or.kr/evmonitor): 50kW 324.4원, 100kW이상 347.2원, 50kW미만 286.7
 |사업자|100kW|50kW|완속|환경부(한전)|300|320|340|360|380|400|420|440|비회원|요금확인|비고|
 |-----|-----|----|----|-----------|-----|-----------------------|-----|----|-----|-----|---------------|---------------|----------------|-------------|----------------|
-|[SK일렉링크](https://skelectlink.co.kr/map)|347.2|324.4|260<br>(APT 200)|GS칼텍스 /<br>한전APT(해피차저) 400| |제주에너지공| | | | |JoyEV,차지비,GS커넥트(지앤텔)|대영채비 등 다수|[확인](https://skelectlink.co.kr/membership/charge)|[앱 다운로드]| 
+|[SK일렉링크](https://skelectlink.co.kr/map)|347.2|324.4|260<br>(APT 200)|GS칼텍스 /<br>한전APT(해피차저) 400| |제주에너지공| | | | |JoyEV,차지비,GS커넥트(지앤텔)|대영채비 등 다수|[확인](https://skelectlink.co.kr/membership/charge)| | 
 |[스타코프](https://ev.or.kr/evmonitor)       |-|-|<b>194</b>|동일(한전 불가)| | |350:휴맥스EV,<br>클린일렉스,<br>LG헬로비전| |SK일렉링크,<br>차지비|대영채비,해피차저|에버온| |완속320|[확인](https://www.starkoff.co.kr/price)|[앱](https://app.starkoff.co.kr/), 추천인 코드: KGJAX| 
 |[클린일렉스]()|255.7|255.7|<b>173.8</b>|309.1 / 292.9 / 292.9|차지비 300, 해피차저, 대영채비, 엘지헬로비전, 클린일렉스 350, 에스트래픽 380|에버온 360|불가|255.7|[확인](https://kcharger.net/index.php?Mn=5&Sn=1&s_option=&s_text=&Pn=view&fn=1@@443&cate2=)|[앱](https://app.starkoff.co.kr/)| 
 |[대영채비](https://www.chaevi.co.kr/Menus/Charger/Find.aspx)|265|<b>250</b>|<b>200</b>|309.1 / 292.9 / 292.9|360|380|400|430|[확인](https://www.chaevi.co.kr/Popup10.html)|[앱](https://app.chaevi.co.kr/), 2021.9.1~, 아우디 초급속충전기 309.1| 
