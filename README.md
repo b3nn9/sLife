@@ -1,7 +1,7 @@
 # 번개곰돌
 ## 서울
 
-## 맥
+## [맥](/misc/mac)
 
 ## 세종
 - 애플 AS: [ANTZ 둔산 센터(별관 5층)](http://dunsan.iantz.co.kr/), [후기](https://b787-0521.tistory.com/61)  
