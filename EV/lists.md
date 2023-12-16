@@ -1,1 +1,3 @@
-- [전기신문(2023.12.15), "이볼루션, '전진사의 밤’ 개최… 업계 관계자 한 자리에"](https://www.electimes.com/news/articleView.html?idxno=330353)  
+- [전기신문(2023.12.15), "이볼루션, '전진사의 밤’ 개최… 업계 관계자 한 자리에"](https://www.electimes.com/news/articleView.html?idxno=330353)
+- [데일리경제(2023.12.14), "이볼루션, '전기차에 진심인 사람들의 밤’ 개최"](http://www.kdpress.co.kr/news/articleView.html?idxno=125193)
+- [미디어펜(2022.11.01), "배터리 산업, 명실상부한 대한민국 대표 먹거리로 자리매김"](https://www.mediapen.com/news/view/766774)  
