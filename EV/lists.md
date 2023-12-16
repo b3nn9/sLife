@@ -1,0 +1,1 @@
+- [전기신문(2023.12.15), "이볼루션, '전진사의 밤’ 개최… 업계 관계자 한 자리에"](https://www.electimes.com/news/articleView.html?idxno=330353)  
