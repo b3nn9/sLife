@@ -1,3 +1,6 @@
+## 백색소음
+- [빗소리(1시간)](https://youtu.be/BvrEe4nDnnY?si=bND_4PM-Rrp8mSGM)
+
 ## 금강경
 ### 금강경 상편(~12강)
 ### 금강경 하편(13강~)
