@@ -7,3 +7,5 @@
 - [38.co.kr](http://www.38.co.kr/html/fund/?o=k) 중간쯤 IPO/공모에 공모탭 확인: 판단에 따라 하루 전 계좌 파기  
 - 증거금 이상 이체 후 공모  
 - 
+### 유튭
+- [국내주식: 구해줘경제](https://www.youtube.com/@goodinvest/videos)  
