@@ -1,1 +1,1 @@
-- [가습기: 루메나 H2?](https://m.blog.naver.com/eternal1220/222619250360)  
+- [가습기: 루메나 H2 Plus](https://m.blog.naver.com/eternal1220/222619250360)  
