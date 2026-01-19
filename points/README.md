@@ -1,1 +1,1 @@
-- [대한항공 쇼핑포인트](https://www.koreanair.com/contents/skypass/earn-miles/travel-and-life/shopping-points): 이마트24(1만>=), 교보문고, 삼성전자, 11번가 등    
+- [대한항공 쇼핑포인트](https://www.koreanair.com/contents/skypass/earn-miles/travel-and-life/shopping-points): 이마트24(1만>=, 1마일/2천원), 교보문고(2마일/천원), 삼성전자, 11번가 등    
