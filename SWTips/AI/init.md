@@ -1,3 +1,9 @@
+- 노드 설치  
+~~~
+(base) PS E:\EV>node -v
+v26.3.0
+~~~
+-  
 ~~~
 (base) PS E:\EV>npm install -g @anthropic-ai/claude-code
 
@@ -12,7 +18,7 @@ npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.0.2
 npm notice To update run: npm install -g npm@12.0.2
 npm notice
 ~~~
-
+-  
 ~~~
 (base) PS E:\EV> npm install -g @google/gemini-cli
 
